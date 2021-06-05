@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/css/main.3dde25c9.chunk.css",
+    "main.js": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/js/main.aec9cb43.chunk.js",
+    "main.js.map": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/js/main.aec9cb43.chunk.js.map",
+    "runtime-main.js": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/js/runtime-main.4673cefe.js",
+    "runtime-main.js.map": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/js/runtime-main.4673cefe.js.map",
+    "static/js/2.5e13e005.chunk.js": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/js/2.5e13e005.chunk.js",
+    "static/js/2.5e13e005.chunk.js.map": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/js/2.5e13e005.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/index.html",
+    "static/css/main.3dde25c9.chunk.css.map": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/css/main.3dde25c9.chunk.css.map",
+    "static/js/2.5e13e005.chunk.js.LICENSE.txt": "/ThriledLokki983/REACT/tree/master/monsters-rolodex/static/js/2.5e13e005.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4673cefe.js",
+    "static/js/2.5e13e005.chunk.js",
+    "static/css/main.3dde25c9.chunk.css",
+    "static/js/main.aec9cb43.chunk.js"
+  ]
+}
